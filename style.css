@@ -1,7 +1,32 @@
 h1 {
+    font-family: 'Lora', serif;
     font-size: 96px;
+    line-height: 0.8;
 }
 
 h2 {
-    font-size: 75px; 
+    font-size: 55px; 
+    font-family: 'Dancing Script', cursive;
+    padding-top: 10px; 
 }
+
+#headerText {
+    font-family: 'Dancing Script', cursive;
+    font-size: 30px;
+}
+
+.container {
+    margin-top: 100px;
+}
+
+#familyPhoto {
+
+    margin-top: 150px; 
+}
+
+.col-md {
+    margin-top: 50px;
+    margin-left: 50px; 
+}
+
+/* font-family: 'Montserrat', sans-serif; */
