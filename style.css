@@ -1,6 +1,6 @@
 body {
-    margin-left: 10%;
-    margin-right: 10%; 
+    margin-left: 7%;
+    margin-right: 7%; 
 }
 
 h1 {
@@ -31,13 +31,13 @@ h2 {
     min-width: 340px; 
     width: 100%; 
     height: auto; 
-    margin-top: 15%;
+    /* margin-top: 15%; */
 }
 
-.col-md {
+/* .col-md {
     margin-top: 50px;
     margin-left: 50px; 
-}
+} */
 
 #socialTags {
     /* position: absolute;
@@ -51,7 +51,11 @@ h2 {
     margin-top: 5%; 
 }
 
-img {
+.img-responsive {
+    margin: 0 auto;
+}
+
+#headshot {
     float: right;
     margin-left: 10px; 
 }
